@@ -36,4 +36,3 @@ les wallet de client 1 :
 Realise par :
 Nezha OUBELLA
 GLSID3
-![Alt text](<My picture.jpg>)
